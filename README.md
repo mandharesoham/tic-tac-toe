@@ -21,7 +21,6 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS and JavaScript.
 - New game functionality
 - Responsive design
 
-## 📸 Preview
 
 
 ## 📚 What I Learned
