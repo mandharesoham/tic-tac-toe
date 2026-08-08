@@ -66,8 +66,11 @@ boxes.forEach((box) => {
       turn0 = true;
     }
     box.disabled = true;
-    checkWinner();
+   let winner = checkWinner();
+
+if (!winner) {
     checkTie();
+}
   });
 });
 function showWinner(winner) {
